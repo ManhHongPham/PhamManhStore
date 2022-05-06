@@ -1,0 +1,9 @@
+<script src="${base}/user/assets/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="${base}/user/assets/js/vendor/jquery-3.5.1.min.js"></script>
+<script src="${base}/user/assets/js/vendor/jquery-migrate-3.3.0.min.js"></script>
+<script src="${base}/user/assets/js/vendor/bootstrap.bundle.min.js"></script>
+<script src="${base}/user/assets/js/jquery.meanmenu.js"></script>
+<script src="${base}/user/assets/js/owl.carousel.min.js"></script>
+<script src="${base}/user/assets/js/plugins.js"></script>
+<script src="${base}/user/assets/js/main.js"></script>
+<script src="${base}/user/assets/js/cart.js"></script>
